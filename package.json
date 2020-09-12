@@ -8,7 +8,7 @@
   "repository": {"type": "git", "url": "http://github.com/mnutt/oauth-proxy.git"},
   "dependencies": {
     "everyauth":   "https://github.com/bnoguchi/everyauth/tarball/master",
-    "http-proxy":  "0.8.0",
+    "http-proxy":  "1.18.1",
     "express":     "2.5.11",
     "connect":     "1.8.5",
     "jade":        "0.20.0",
